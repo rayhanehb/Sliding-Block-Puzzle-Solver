@@ -31,5 +31,6 @@ The goal is to move the pieces until the 2x2 piece is above the bottom opening (
 
 The program will read a textfile with a puzzle initialized using the above convention and return a textfile with step by step solutions. The **optimal** solution is achieved using using ** A* ** algorithm. The program also allows solver to use DFS algorithm to show the difference between the solutions. 
 
+* hrd.py is the program
 * testhrd.txt holds a sample input file. 
 * testhrd_sol.txt shows how the solution is outputed
