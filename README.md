@@ -17,6 +17,7 @@ Once we place the ten pieces on the board, two empty spaces should remain. The p
                       v
                   
 * 1x1 pieces:  2
+* empty spaces: .
 
 Together the pieces can create multiple board conventions. For example the following:
 
