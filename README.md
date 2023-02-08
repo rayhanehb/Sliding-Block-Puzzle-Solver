@@ -8,11 +8,14 @@ Four 1x1 pieces.
 Once we place the ten pieces on the board, two empty spaces should remain. The pieces are denoted in the following convention in the solver:
 
 * 2x2 piece:
-              1 1
-              1 1
+*                     11
+                      11
+                    
+                   
 * 2x1 (horizontal and vertical):
-              < >  ^
-                   v
+*                < >  ^
+                      v
+                  
 * 1x1 pieces:  2
 
 Together the pieces can create multiple board conventions. For example the following:
