@@ -1,4 +1,7 @@
 # Sliding-Block-Puzzle-Solver
+**TO RUN FILE**:
+python3 hrd.py --inputfile name.txt --outputfile name.txt
+
 Hua Rong Dao Pass Sliding Block Puzzle Solver
 The puzzle board is four spaces wide and five spaces tall. We will consider the variants of this puzzle with ten pieces. There are four kinds of pieces:
 
